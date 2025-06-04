@@ -28,4 +28,4 @@ We struggled with getting the project started because it the format is of the we
 If we had more time to work on this project, we would have tried to find a way to create an actual song with the notes. We would also have made the code shorter and less redundant to make the code cleaner, but more complex. 
 
 ## Video
-[![Finch Final Project] (assets/thumbnail.png)] (https://youtube.com/shorts/U12QbnswmAQ?feature=share)
+[![Finch Final Project](assets/thumbnail.png)](https://youtube.com/shorts/U12QbnswmAQ?feature=share)
